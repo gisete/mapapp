@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link href='https://fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+    </head>
+
+    <body>
+        <div class="container">
+            <div class="search">
+                <input name="search" class="search-field" placeholder="Search" type="search" data-bind="value: query, valueUpdate: 'keyup'" autocomplete="off">
+            </div>
+
+            <section class="results">
+                <div class="markers-list">
+                    <ul data-bind="foreach: computedCityNames">
+                        <li data-bind="text: name"></li>
+                    </ul>
+                </div>
+
+                <div id="map-container"></div>
+            </section>
+        </div>
+
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCX13s8KCuYBfs363O7tvQI3JkCSfgWbqg">
+    </script>
+        <script type="text/javascript" src="js/app.js"></script>
+        
+    </body>
+</html>
