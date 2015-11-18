@@ -1,0 +1,880 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ob",
+				"observableArray"
+			],
+			[
+				"crea",
+				"createInfoWindow"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"new",
+				"newMarker"
+			],
+			[
+				"map",
+				"mapInit"
+			],
+			[
+				"Goo",
+				"GoogleMapView"
+			],
+			[
+				"google",
+				"googleMap"
+			],
+			[
+				"G",
+				"googleMap"
+			],
+			[
+				"goog",
+				"googleMap"
+			],
+			[
+				"goo",
+				"googleMap"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"list-",
+				"list-style-type"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"tex",
+				"text-transform"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ming",
+				"min-height"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"lt",
+				"c-ltgrey"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"even",
+				"eventName"
+			],
+			[
+				"eve",
+				"eventName"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"c-",
+				"c-white"
+			],
+			[
+				"backg",
+				"background"
+			],
+			[
+				"col",
+				"col-50"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"spea",
+				"speakertiles__tile"
+			],
+			[
+				"fi",
+				"first-child"
+			],
+			[
+				"c-d",
+				"c-dkblue"
+			],
+			[
+				"dk",
+				"c-dkgrey"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"ag",
+				"agenda__content"
+			],
+			[
+				"agend",
+				"agenda__tab"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"in",
+				"initQuotesRotation"
+			],
+			[
+				"j",
+				"jsonArray"
+			],
+			[
+				"split",
+				"splitClass"
+			],
+			[
+				"n",
+				"newDelay"
+			],
+			[
+				"c",
+				"console"
+			],
+			[
+				"ma",
+				"matData"
+			],
+			[
+				"ho",
+				"hoData"
+			],
+			[
+				"mat",
+				"matData"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"spl",
+				"splitClass"
+			],
+			[
+				"ph",
+				"photo"
+			],
+			[
+				"cha",
+				"changeHtml"
+			],
+			[
+				"test",
+				"testimonials"
+			],
+			[
+				"quot",
+				"quoteIndex"
+			],
+			[
+				"qu",
+				"quoteIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1251,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/app.js",
+			"settings":
+			{
+				"buffer_size": 2535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gisetekindahl/Projects/Angular Stuff/cat-clicker/app-knockout.js",
+			"settings":
+			{
+				"buffer_size": 1616,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gisetekindahl/Projects/ClonesGit/KnockOutJS-GoogleMaps/js/app.js",
+			"settings":
+			{
+				"buffer_size": 3570,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/gisetekindahl/Projects/ClonesGit/KnockOutJS-GoogleMaps/js/map.js",
+			"settings":
+			{
+				"buffer_size": 4376,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"selected_items":
+		[
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"sci",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"sco",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scop",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"scope",
+				"Scope Hunter: Toggle Instant Scoper"
+			],
+			[
+				"Scop",
+				"Scope Hunter: Show Scope Under Cursor(s)"
+			],
+			[
+				"Pac",
+				"Package Control: List Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gisetekindahl/Projects/Angular Stuff/cat-clicker/app.js",
+		"/Users/gisetekindahl/Projects/Animations/City Skyline/index.html",
+		"/Users/gisetekindahl/Projects/KnockOut MapApp/js/temp.js",
+		"/Users/gisetekindahl/Projects/KnockOut MapApp/js/temp2.js",
+		"/Users/gisetekindahl/Projects/Animations/City Skyline/css/style.css",
+		"/Users/gisetekindahl/Projects/ClonesGit/udacity_js_design_patterns/final/js/app.js",
+		"/Users/gisetekindahl/Projects/ClonesGit/KnockOutJS-GoogleMaps/js/app.js",
+		"/Users/gisetekindahl/Projects/ClonesGit/udacity_js_design_patterns/final/index.html",
+		"/Users/gisetekindahl/Projects/Angular Stuff/cat-clicker/index-knockout.html",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_home.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/press-room/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/modules/_flag.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_press-room.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/includes/menu.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/modules/_locations.scss",
+		"/Users/gisetekindahl/Projects/Angular Stuff/cat-clicker/index.html",
+		"/Users/gisetekindahl/Projects/Angular Stuff/First Project/index.html",
+		"/Users/gisetekindahl/Projects/TED/wp-content/themes/tedx/css/main.css",
+		"/Users/gisetekindahl/Projects/TED/wp-content/themes/tedx/frontpage-template.php",
+		"/Users/gisetekindahl/Projects/TED/wp-content/themes/tedx/_front-page.php",
+		"/Users/gisetekindahl/Projects/TED/wp-content/themes/tedx/footer.php",
+		"/Users/gisetekindahl/Projects/TED/wp-content/themes/tedx/style.css",
+		"/Users/gisetekindahl/Projects/TED/wp-content/themes/tedx/header.php",
+		"/Users/gisetekindahl/Projects/TED/wp-content/themes/tedx/functions.php",
+		"/Users/gisetekindahl/Projects/TED/wp-content/themes/tedx/page-events.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/utilities/_variables.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/modules/_quotes.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/modules/_forms.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/layout/_layout.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_data-and-privacy.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_customer-stories.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_cross-promo.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_404.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_win-tickets.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_tunehouse.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_media-kit.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_training.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_team.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_migrate.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_resources.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_rad.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_partner-portal.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_partner-products.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_postback.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_contact.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_agency-center.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_certified-partner-program.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_careers.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_bi.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/events/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/includes/events.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/events/eventtile.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/header.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/404.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/agency-center/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/bi/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/careers/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/contact/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/cross-promo/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/customer-stories/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/js/json/testimonials-hasoffers.json",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/js/json/testimonials-mat.json",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/media-kit/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/migrate/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/request-demo/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/includes/testimonials-ho.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/includes/testimonials-mat.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/includes/timeline.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/js/framework.js",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/js/min/framework-min.js",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/README.md",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/signatures/index.html",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/team/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/partner-products/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/config.codekit",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/tune-house/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/training/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/resources/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/partner-portal/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/mat-privacy-policy/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/data-and-privacy/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/certified-partner-program/index.php",
+		"/Users/gisetekindahl/Projects/Angular Stuff/First Project/css/eggly.css",
+		"/Users/gisetekindahl/Projects/Angular Stuff/angular-phonecat/app/index.html",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/utilities/_utilities.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/css/framework.css",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/img/common/icons/icon-group.svg",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/postback/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/js/site-specific.js",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/js/min/site-specific-min.js",
+		"/Users/gisetekindahl/Downloads/Animation Testing/lineGraph.html",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/footer.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/js/site-specific_NEW.js",
+		"/Users/gisetekindahl/Downloads/Animation Testing/lineGraph.js",
+		"/Users/gisetekindahl/Projects/Angular Stuff/angular-phonecat/app/js/controllers.js",
+		"/Users/gisetekindahl/Projects/Animations/Graphs/index.html",
+		"/Users/gisetekindahl/Downloads/sitemap (1).xml",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/sitemap.xml",
+		"/Users/gisetekindahl/Desktop/Default (OSX).sublime-keymap",
+		"/Users/gisetekindahl/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/includes/team-members.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/utilities/_overrides.scss",
+		"/Users/gisetekindahl/Downloads/benkeen-country-region-selector-7608c72/source/source-crs.js",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/js/vendor/crs.min.js",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/signatures/js/app.js",
+		"/Users/gisetekindahl/Git-Tune/hub.corp.tune.com/wp-content/themes/roots/page-marketing.php",
+		"/Users/gisetekindahl/Git-Tune/mobileapptracking.com/com/.htaccess",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/.htaccess",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/privacy-policy/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/img/desktop/resources/guide-thecompleteguide.svg",
+		"/Users/gisetekindahl/Git-Tune/mobileapptracking.com/com/privacy-policy/index.php",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/site-specific/_events.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/styles.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/img/common/icons/icon-thinking.svg",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/img/common/icons/icon-measure.svg",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/about/index.php",
+		"/Users/gisetekindahl/Desktop/hp-slider.html",
+		"/Users/gisetekindahl/Library/Application Support/Sublime Text 2/Packages/Theme - My Own/Monokai Extended.tmTheme",
+		"/Users/gisetekindahl/Library/Application Support/Sublime Text 2/Packages/Theme - My Own/SideBar.sublime-theme",
+		"/Users/gisetekindahl/Projects/Ionic stuff/myApp/www/index.html",
+		"/Users/gisetekindahl/Library/Application Support/Sublime Text 2/Packages/User/Default.sublime-theme",
+		"/Users/gisetekindahl/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/gisetekindahl/Library/Application Support/Sublime Text 2/Packages/Theme - Spacegray/Spacegray Eighties.sublime-theme",
+		"/Users/gisetekindahl/Library/Application Support/Sublime Text 2/Packages/Theme - Default/Default.sublime-theme",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/scss/framework/modules/_hgroup.scss",
+		"/Users/gisetekindahl/Git-Tune/tune.com/www/img/desktop/resources/best_deeplinking.svg",
+		"/Users/gisetekindahl/Library/Application Support/Sublime Text 2/Packages/Tomorrow Color Schemes/Tomorrow Night[custom].tmTheme"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/gisetekindahl/Git-Tune/tune.com/www/scss,/Users/gisetekindahl/Git-Tune/tune.com/www,*.scss,-*.php,-*.html",
+			"/Users/gisetekindahl/Git-Tune/tune.com/www/scss,/Users/gisetekindahl/Git-Tune/tune.com/www,-*.scss,-*.css",
+			"/Users/gisetekindahl/Git-Tune/tune.com/www/scss,/Users/gisetekindahl/Git-Tune/tune.com/www",
+			"/Users/gisetekindahl/Git-Tune/tune.com/www/scss"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"rotation",
+			"belgique",
+			"animate_illustration(",
+			"(",
+			"animate_illustration",
+			"belg",
+			"init",
+			"eachCity",
+			"div",
+			"<div ",
+			"/img",
+			"class=\"col-80\"",
+			"<div class=\"mediablock__content\">",
+			"<div class=\"mediablock mediablock--imageleft\">\n                <div class=\"mediablock__image\">\n                    <img src=\"/img/common/icons/icon-news.svg\" alt=\"TUNE in the news\">\n                </div>",
+			"	\n",
+			"'../img",
+			"../img",
+			"\"/img",
+			"/img",
+			"../img",
+			"partner-cta",
+			"clearfix",
+			" flag--rev",
+			" flag__image--x3-whitespace flag__image--x5-whitespace",
+			" flag--collapse",
+			">\n",
+			"// 	",
+			"getParameterByName",
+			"h2",
+			"console",
+			"Please correct the following errors",
+			"name",
+			"h4",
+			"tuneApp",
+			"FOO",
+			"marchale",
+			"christiancalderon",
+			"thomaszimmermann",
+			"danbishop",
+			"willphung",
+			"privacy-policy",
+			"44",
+			" featuredevents",
+			"featuredevents",
+			"\n                <!-- Event Title -->",
+			"\n                    <!-- Description of event -->",
+			"yellow",
+			" js-scroll",
+			"gregstuart",
+			"raquelbasso",
+			"willphung",
+			"gregstuart",
+			"raquelbasso",
+			"ericma",
+			"michaeldehart",
+			"yellow",
+			"guides",
+			"eventtile",
+			"vertical-align-parent",
+			"profile__thumbnail",
+			"®​",
+			"007AFF",
+			"39434E",
+			"green",
+			"iframe",
+			"sidebar",
+			"white",
+			"comment.block.html",
+			"#918b6cff",
+			"#e0ff1eff",
+			"#ff118cff",
+			"function",
+			"text",
+			"hgroup__subheading",
+			"alt=\"MobileAppTracking wins \"Best Analytics\" at Winter Nights Mobile Gaming Conference.\"",
+			"awards/award-winternights.png",
+			".mediablock",
+			"@include set-image-as-circle",
+			"@include set-image-as-circle;",
+			"poly",
+			"resources__tile-cover",
+			"resources__tile-title",
+			"resources__tile-content",
+			"resources__tile col-50",
+			"resources__tile ",
+			"\n                    <p><a href=\"#\">Download</a></p>",
+			"usingreengagement",
+			"PRACTICES",
+			"<div class=\"\"></div>",
+			"dark",
+			"gree",
+			"button",
+			"green",
+			"images-new",
+			"border-radius",
+			"registration",
+			"dkbl",
+			"h4",
+			"mattcollins",
+			"jonathanalferness",
+			"christiancalderon",
+			"headshot",
+			"<table>",
+			"weight",
+			"weigth",
+			";\n",
+			"info",
+			"images",
+			"h5",
+			"col-50 ",
+			"border-bottom: 1px solid gray;",
+			"2ba6cb",
+			"h4",
+			"h2",
+			"<>",
+			"h2",
+			"<h2>",
+			"h3",
+			"h2",
+			"col-50",
+			"href",
+			"month",
+			"h2",
+			"daily",
+			"clearfix",
+			"Read bio",
+			"set-image-as-dial",
+			"margin-leader("
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'#{$cdn-url}",
+			"\"<?php echo $cdnUrl; ?>",
+			"<?php echo $cdnUrl; ?>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								573,
+								573
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/app.js",
+					"settings":
+					{
+						"buffer_size": 2535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1467,
+								1467
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 234.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/gisetekindahl/Projects/Angular Stuff/cat-clicker/app-knockout.js",
+					"settings":
+					{
+						"buffer_size": 1616,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								438,
+								438
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Users/gisetekindahl/Projects/ClonesGit/KnockOutJS-GoogleMaps/js/app.js",
+					"settings":
+					{
+						"buffer_size": 3570,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								817,
+								823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/Users/gisetekindahl/Projects/ClonesGit/KnockOutJS-GoogleMaps/js/map.js",
+					"settings":
+					{
+						"buffer_size": 4376,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1241,
+								1014
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.scope_viewer":
+	{
+		"height": 98.0
+	},
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 323.0,
+	"status_bar_visible": true
+}
