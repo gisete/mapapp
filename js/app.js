@@ -12,12 +12,25 @@ function ViewModel() {
 
     //this.map.googleMap
     self.citiesList().forEach(function(place) {
-        self.map.createMarker(place);
+        self.markerList.push(new self.map.marker(place));
+        //self.map.marker(place);
     });
 
     this.computedCityNames = ko.computed(function() {
         return ko.utils.arrayFilter(self.citiesList(), function(item) {
             return item.name.toLowerCase().indexOf(self.query().toLowerCase()) >= 0;
+        });
+    });
+
+    self.filterPins = ko.computed(function () {
+        var search  = self.query().toLowerCase();
+
+        return ko.utils.arrayFilter(self.markerList(), function (marker) {
+            var doesMatch = marker.name().toLowerCase().indexOf(search) >= 0;
+
+            marker.isVisible(doesMatch);
+
+            return doesMatch;
         });
     });
     
@@ -35,16 +48,20 @@ var GoogleMapView = function() {
             test: 'test'
         });
     }
+
+    this.getMapName = function() {
+        return self.googleMap;
+    };
     
     // Create Marker and Info Window
-    this.createMarker = function(data) {
+    this.marker = function(data) {
         var that = this;
+        this.name = ko.observable(data.name);
+        this.lat  = ko.observable(data.location.lat);
+        this.long  = ko.observable(data.location.lng);
 
         this.newMarker = new google.maps.Marker({
-            position: data.location,
-            map: self.googleMap,
-            title: data.name,
-
+            position: new google.maps.LatLng(that.lat(), that.long())
         });
 
         this.infoWindow = new google.maps.InfoWindow({
@@ -56,6 +73,18 @@ var GoogleMapView = function() {
             that.infoWindow.setContent( data.name );
             that.infoWindow.open(self.googleMap, this);
         });
+
+        this.isVisible = ko.observable(false);
+
+        this.isVisible.subscribe(function(currentState) {
+            if (currentState) {
+                that.newMarker.setMap(self.googleMap);
+            } else {
+                that.newMarker.setMap(null);
+            }
+        });
+
+        this.isVisible(true);
     };
     
 };
@@ -106,7 +135,3 @@ var places =  [
 ];
 
 ko.applyBindings(new ViewModel());
-
-
-
-// AIzaSyCX13s8KCuYBfs363O7tvQI3JkCSfgWbqg
