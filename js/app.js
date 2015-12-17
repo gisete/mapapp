@@ -17,8 +17,8 @@ function ViewModel() {
     });
 
     this.computedCityNames = ko.computed(function() {
-        return ko.utils.arrayFilter(self.citiesList(), function(item) {
-            return item.name.toLowerCase().indexOf(self.query().toLowerCase()) >= 0;
+        return ko.utils.arrayFilter(self.markerList(), function(item) {
+            return item.name().toLowerCase().indexOf(self.query().toLowerCase()) >= 0;
         });
     });
 
@@ -27,18 +27,23 @@ function ViewModel() {
 
         return ko.utils.arrayFilter(self.markerList(), function (marker) {
             var doesMatch = marker.name().toLowerCase().indexOf(search) >= 0;
-
             marker.isVisible(doesMatch);
-
             return doesMatch;
         });
     });
-    
+
+    this.setMarker = function(currentMarker) {
+        google.maps.event.trigger(currentMarker.newMarker, 'click');
+    }
 };
 
 
 var GoogleMapView = function() {
     var self = this;
+
+    this.infoWindow = new google.maps.InfoWindow({
+        content: "Loading..."
+    });
 
     // Craete Google Map
     this.init = function() {
@@ -64,14 +69,9 @@ var GoogleMapView = function() {
             position: new google.maps.LatLng(that.lat(), that.long())
         });
 
-        this.infoWindow = new google.maps.InfoWindow({
-            content: "Loading..."
-        });
-
-        // Use closure here
         this.newMarker.addListener('click', function() {
-            that.infoWindow.setContent( data.name );
-            that.infoWindow.open(self.googleMap, this);
+            self.infoWindow.setContent( data.name );
+            self.infoWindow.open(self.googleMap, this);
         });
 
         this.isVisible = ko.observable(false);

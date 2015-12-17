@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
     <head>
@@ -16,7 +15,7 @@
             <section class="results">
                 <div class="markers-list">
                     <ul data-bind="foreach: computedCityNames">
-                        <li data-bind="text: name"></li>
+                        <li><a href="" data-bind="click: $parent.setMarker, text: name"></a></li>
                     </ul>
                 </div>
 
